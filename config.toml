@@ -1,0 +1,7 @@
+#baseURL = 'http://example.org/'
+languageCode = 'es-CO'
+title = 'CMAsesores'
+theme = "hugo-scroll"
+buildDrafts = false
+[params]
+	description = ""
