@@ -13,5 +13,5 @@ CM Asesores de Colombia
 {{<icon class="fa fa-map">}}&nbsp;[Cra 96b 18 30 ap 712](https://goo.gl/maps/RN7KNke8LBJkeDZh6)   
 Bogotá, Colombia
 
-{{<icon class="fa fa-phone">}}&nbsp;Teléfono / Whatsapp: [3123480728](http://wa.me/573123480728)
+{{<icon class="fa fa-phone">}}&nbsp;Teléfono / Whatsapp: [3115749514](http://wa.me/573115749514)
 
